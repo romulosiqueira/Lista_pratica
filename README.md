@@ -1,6 +1,6 @@
 # Lista_pratica
-trabalho realizado pelos alunos:
-Eduardo Gomes de Lima
-José Willamys Gonçalves da Silva
-Rômulo José Araujo Rodrigues Siqueira
-Manoel Rocha dos Santos Neto
+trabalho realizado pelos alunos:<br/>
+Eduardo Gomes de Lima<br/>
+José Willamys Gonçalves da Silva<br/>
+Rômulo José Araujo Rodrigues Siqueira<br/>
+Manoel Rocha dos Santos Neto<br/>
